@@ -63,3 +63,10 @@ Felhasználói elfogadási teszt (UAT): azt ellenőrzi, hogy a rendszer megfelel
 Statikus tesztelés: a programot futtatás nélkül vizsgálják (például kódellenőrzés, dokumentáció átnézése).
 
 Dinamikus tesztelés: a programot futtatják, és megfigyelik, hogyan viselkedik különböző bemenetekre.
+### Szoftverfejlesztési és tesztelési modellek(vízesés, V-modell, agilis modell):
+![vízesés](image-2.png)
+![V-modell](image-1.png)
+![agilis modell](image-3.png)
+### TDD, BDD modell jellemzői.
+![TDD](image-4.png) 
+![BDD](image-5.png)
